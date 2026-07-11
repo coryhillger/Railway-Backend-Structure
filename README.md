@@ -27,13 +27,14 @@ This template provides a pre-configured, production-ready Express.js environment
   
     Run 'npm run dev'
    
-### <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/></svg> **4. Deployment** 
+## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/></svg> **Deployment** 
    * Click the ***Deploy on Railway*** button below.
    * Railway will automatically provision the service using the default settings.
    * Once deployed, the API will be available at your Railway-provided domain.
    
    
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/QHf99b?referralCode=tu8Ajt&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 
 ## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M3 9h18"/><path d="M9 21V9"/></svg> **Project Structure**
 
