@@ -7,7 +7,7 @@
 ## **Stop wasting hours on boilerplate setup.**   
 This template provides a pre-configured, production-ready Express.js environment so that you can focus on building your API logic from day one.
  
-## **Features**
+##  **Features:**
 * **Zero Configuration:** Pre-configured with `railway.json` for automatic port and startup settings.
 * **Express.js Ready:** Includes essential middleware (`express.json`, `dotenv`, and `cors`).
 * **Modular Architecture:** Ready-to-use directory structure for controllers, routes, services, and utilities.
@@ -29,8 +29,8 @@ This template provides a pre-configured, production-ready Express.js environment
     Run 'npm run dev'
    
 ### **4. Click the ***Deploy on Railway*** button below.** 
-    * Railway will automatically provision the service using the default settings.
-    * Once deployed, the API will be available at your Railway-provided domain.
+   * Railway will automatically provision the service using the default settings.
+   * Once deployed, the API will be available at your Railway-provided domain.
    
    
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/custom?repo=https://github.com/coryhillger/Railway-Backend-Structure)
@@ -50,3 +50,17 @@ This template provides a pre-configured, production-ready Express.js environment
 ├── package.json  
 └── railway.json  
 
+### **Look Under the Hood**
+
+Get a feel for how the application is structured with these core snippets.
+
+**The Entry Point (`src/index.js`)**
+```javascript
+const express = require('express');
+const app = express();
+
+// Middleware integration
+app.use(express.json());
+app.use(require('./routes/api')); // Clean route mounting
+
+app.listen(3000, () => console.log('Server running on port 3000'));
