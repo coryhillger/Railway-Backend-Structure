@@ -32,7 +32,7 @@ This template provides a pre-configured, production-ready Express.js environment
    * Once deployed, the API will be available at your Railway-provided domain.
    
    
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/QHf99b?referralCode=tu8Ajt&utm_medium=integration&utm_source=template&utm_campaign=generic)|
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/QHf99b?referralCode=tu8Ajt&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## Project Structure
 
