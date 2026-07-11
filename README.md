@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/coryhillger/Railway-Backend-Structure?color=blue)
+![GitHub License](https://img.shields.io/github/coryhillger/Railway-Backend-Structure/LICENSE?color=blue)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![Express](https://img.shields.io/badge/express-4.x-blue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2026?color=orange)
