@@ -17,8 +17,8 @@ This template provides a pre-configured, production-ready Express.js environment
 
 ### **1. Clone the repository:**
      
-   Run 'git clone https://github.com/coryhillger/Railway-Backend-Structure.git'  
-       'cd Railway-Backend-Structure'
+    Run 'git clone https://github.com/coryhillger/Railway-Backend-Structure.git'  
+        'cd Railway-Backend-Structure'
 
 ### **2. Install dependencies:**
   
