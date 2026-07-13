@@ -51,6 +51,11 @@ This template provides a pre-configured, production-ready Express.js environment
 ├── package.json  
 └── railway.json  
 
+---
+### 🚀 Need the Pro Version?
+*Speed up your development with the **Pro Edition**—includes Auth, Database integration, and pre-built testing suites.* 
+[**Get the Pro Boilerplate & Support**](https://your-gumroad-link-here)
+
 ### **Look Under the Hood**
 
 Get a feel for how the application is structured with these core snippets.
